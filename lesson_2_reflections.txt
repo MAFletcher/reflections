@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+You need to initialize a repository to let Git know which files your commits relate to.
