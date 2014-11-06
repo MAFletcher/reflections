@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 You need to initialize a repository to let Git know which files your commits relate to.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allows you to decide which files from your working directory you want to include in the commit. The value is that you don't have to include in a commit files you haven't changed -- so that narrows down the places you need to look if a bug shows up after a commit.
